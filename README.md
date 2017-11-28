@@ -2,14 +2,14 @@
 
 
 
-### Physical Activity
+### Physical Activity (Elena)
 The number of city parks available determines the level of obesity.
 
 ![image](https://user-images.githubusercontent.com/32119820/33304536-4b7c25ba-d3be-11e7-8646-d9d09a3b1a6f.png)
 
 If you spend all of your free time watching television and not being physically active, you are more likely to be obese.
 
-![image](https://user-images.githubusercontent.com/32119820/33304536-4b7c25ba-d3be-11e7-8646-d9d09a3b1a6f.png)
+![image](https://user-images.githubusercontent.com/32119820/33304589-a45ad1cc-d3be-11e7-88c3-b711e073261c.png)
 
 
 
