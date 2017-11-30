@@ -2,6 +2,19 @@
 
 ## Project Statement
 $$Add Text
+<br>
+### What external factors affect obesity in children in the United States?<br>
+<img width="499" alt="screen shot 2017-11-30 at 12 21 04 am" src="https://user-images.githubusercontent.com/32026039/33420885-2a1758c4-d565-11e7-9053-26bd4507dd36.png"><br>
+
+
+<img width="496" alt="screen shot 2017-11-30 at 12 21 17 am" src="https://user-images.githubusercontent.com/32026039/33420897-36b17434-d565-11e7-972a-bebc22d87153.png"><br>
+
+
+<img width="485" alt="screen shot 2017-11-30 at 12 21 29 am" src="https://user-images.githubusercontent.com/32026039/33420909-44adbd72-d565-11e7-884c-4618435da1fc.png"><br>
+
+
+<img width="515" alt="screen shot 2017-11-30 at 12 21 40 am" src="https://user-images.githubusercontent.com/32026039/33420928-528fcf66-d565-11e7-91ce-0b2d77ff8361.png"><br>
+
 
 ## Prototypes
 
