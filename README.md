@@ -33,6 +33,8 @@ In this graph, we can see that youth who watch more television and participate i
 ---------
 
 ## Final Versions:
+
+
 ### How Sugar Intake Affect Obesity (Yuhao)
 ![image](img/sugar_intake.png)
 
@@ -59,6 +61,18 @@ The southern states surrounding Mississippi and Louisianna have some of the lowe
 For example, Michigan's Department of Community Health passed a legislation in which the Department of Transportation will consider all types of transportation (pedestrians, bicyclists, motorists and public transportation riders) when they design their transportation. This encourages more people to be physically active as they have easier access to safely walk or bike. Another successful initiative was in Minnesota in which they implemented a Safe Routes to School program. This program fosters a better environment for youths to bike or walk to school. They were able to accomplish this by creating safer routes, educating on the importance of exercise and creating after-school programs that encourage physical activity.
 
 *More information on these initiatives can be found here: https://www.cdc.gov/physicalactivity/downloads/pa_state_indicator_report_2014.pdf
+
+
+---------------------------------------------------
+Meiyuan's - not done
+### How edcuation level relate to obesity
+![image](img/Meiyuan_1.png)
+
+### How poverty relate to adult obesity
+![image](img/Meiyuan_2.png)
+
+### How poverty relate to youth obesity
+![image](img/Meiyuan_3.png)
 
 ----------
 ## Future Enhancements
