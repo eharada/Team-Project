@@ -33,6 +33,8 @@ In this graph, we can see that youth who watch more television and participate i
 ---------
 
 ## Final Versions:
+### How Sugar Intake Affect Obesity
+![image](img/sugar_intake.png)
 
 ### Physical activity and it's relationship to obesity (Elena)
 
