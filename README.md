@@ -6,7 +6,7 @@
 
 #### <i>The number of parks available determines the level of obesity.</i>
 
-![image](https://user-images.githubusercontent.com/32119820/33304536-4b7c25ba-d3be-11e7-8646-d9d09a3b1a6f.png)
+![image](https://user-images.githubusercontent.com/32119820/33408187-f9ff9e16-d529-11e7-81b3-650833a76d02.png)
 
   The southern states surrounding Mississippi and Louisianna have some of the lowest numbers of city parks available within their neighborhoods. As a result, physical activity is seen as a lower priority, which leads to higher rates of obesity. These states should put stronger emphasis on creating more local parks as that will not only encourage youths to get more exercise on the playground but will also encourage them to bike or walk to these nearby parks. Since there will be no cost to use the park, it will be a bigger incentive to families who may not want to spend money on entertainment. 
 
