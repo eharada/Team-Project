@@ -1,5 +1,7 @@
 # Team-Project (Edit Title)
 
+## Project Statement
+
 
 
 ### Physical Activity (Elena)
