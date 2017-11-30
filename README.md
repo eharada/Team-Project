@@ -14,6 +14,8 @@ $$Add Text
 In this graph, we can see that youth who watch more television and participate in less physical activity are more obese. This chart is good because it shows three dimensions and adds more complexity. However it is confusion to see television consumption and physical activity side by side. Therefore, in the next version, I am going to take the ratio of tv consumption versus physical activity and then plot that against obesity. This way, we’ll be able to see if physical activity and tv consumption together play an equal role in obesity.
 
 
+## Final Versions:
+
 ### Physical activity and it's relationship to obesity (Elena)
 
 #### <i>The number of parks available may be a contributing factor to obesity.</i>
