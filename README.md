@@ -8,14 +8,14 @@
 
 #### <i>The number of parks available determines the level of obesity.</i>
 
-![image](https://user-images.githubusercontent.com/32119820/33408187-f9ff9e16-d529-11e7-81b3-650833a76d02.png)
+![image](https://user-images.githubusercontent.com/32119820/33409738-c4a5c152-d531-11e7-8066-16eb2825366e.png)
 
   The southern states surrounding Mississippi and Louisianna have some of the lowest numbers of city parks available within their neighborhoods. As a result, physical activity is seen as a lower priority, which leads to higher rates of obesity. These states should put stronger emphasis on creating more local parks as that will not only encourage youths to get more exercise on the playground but will also encourage them to bike or walk to these nearby parks. Since there will be no cost to use the park, it will be a bigger incentive to families who may not want to spend money on entertainment. 
 
 
 #### <i>If you spend all of your free time watching television and not being physically active, you are more likely to be obese.</i>
 
-![image](https://user-images.githubusercontent.com/32119820/33304589-a45ad1cc-d3be-11e7-88c3-b711e073261c.png)
+![image](https://user-images.githubusercontent.com/32119820/33409713-b04a0678-d531-11e7-9219-e39700b0eb53.png)
 
   In the above chart, we are comparing television consumption and physical activity to obesity levels. We would expect that if you watch more television, there is a direct correlation to obesity. However in the visualization it is evident that television consumption is only directly related to obesity if the youths are not physically active. If a youth is watching several hours of television but is also playing sports for several hours, they are less likely to be obese as they are still getting exercise. Because of this, states should create more opportunities for youths to get exercise such as creating more parks or funding more after-school sports teams.
 
