@@ -36,6 +36,11 @@ In this graph, we can see that youth who watch more television and participate i
 ### How Sugar Intake Affect Obesity (Yuhao)
 ![image](img/sugar_intake.png)
 
+### How Availability of Food Affects Obesity (Melvin)
+![image](img/ChildObesity_VS_FreeLunch.png)
+
+Some elementary schools in various states offer a free lunch program for kids living in poverty. Here we see that a higher percentage of kids in said program correlates with a higher percentage of kids in the state who are obese. The more readily abundant food is to a person, the higher the chance he grows obese. A lunch program may be helpful in teaching children nutrition education in ways that a parent cannot, but there are other lifestyle factors other than food intake habits that contribute to obesity.
+
 ### Physical activity and it's relationship to obesity (Elena)
 
 #### <i>The number of parks available may be a contributing factor to obesity.</i>
