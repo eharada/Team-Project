@@ -1,8 +1,43 @@
-# How can we change the levels of obesity in the United States?
+# How can we decrease obesity in the United States?
 
 ## Project Statement
-$$Add Text
-<br>
+Obesity in the United States has been a growing issue for the past few decades. Many people have preconceived notions that obesity is a direct correlation to a person's lifestyle and his/her choices. Because of this, the government and other organizations have tried to intervene by creating fitness programs, adding more funding the physical education programs and community parks, and educating people on the negative impacts it will have in the future. Although these may be useful to help alleviate some of the issues, this is not a definitive solution. Even with all of these initivaties, obesity in the United States continues to grow. 
+
+Collectively we weren't sure why obesity remains a growing issue and what steps should be taken to lower obesity. Because of this curiosity, we decided to see what factors were strongly correlated to obesity. After researching more into obesity and potential factors, we learned that it is a much more complex issue than we first thought. Although we knew that there wasn't a one-to-one relationship, we didn't know that there could be at least ten different factors that play a role in obesity. This puts some perspective into our minds as we can better understand why past initiatives and government intervention weren't as successful as they should have been. 
+
+--------
+
+## Project Progression
+
+<b> Data Wrangling: </b> <br>
+All data wrangling steps will be outlined in each individual jupyter notebook that is attached. The goal of this was to be able to clean the data to remove extraneous columns and rows that was not necessary to prove our claim. This allowed us to have ready to use data in Tableau so that we would could focus on the data visualization rather than sorting through all the data.
+
+<b> Literature/Data Sources: </b> <br>
+Below are the links used in this project. These links should also be available in the data visualizations and/or jupyter notebooks.
+
+https://stateofobesity.org/rates/
+https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-youth-risk-behavior-surveillance-system
+https://stateofobesity.org/physical-inactivity/
+https://www.cdc.gov/physicalactivity/downloads/pa_state_indicator_report_2014.pdf
+
+
+---------
+## Prototypes
+
+![image](https://user-images.githubusercontent.com/32119820/33415685-f7c4298c-d54c-11e7-9b0f-7021d6bbcb85.png)
+
+In this visual we are able to see the ratio between physical inactivity and the number of resources available. More specifically, we can see that Louisianna and Mississippi have the highest levels of physical inactivity and the lowest number of city parks, community centers and sidewalks in their neighborhoods. This visual is good because you can easily compare the states to see which ones need to be focused on. However it can be improved by changing this visual to a scatterplot in which we can see a trend between physical inactivity and resources available. In the next version, I am going to change this to a scatterplot that will include all the states in USA and also plot a trendline to see if there is a strong correlation between the two factors.
+
+![image](https://user-images.githubusercontent.com/32119820/33415670-d3dc6d54-d54c-11e7-823d-e4f0136b534a.png)
+
+In this graph, we can see that youth who watch more television and participate in less physical activity are more obese. This chart is good because it shows three dimensions and adds more complexity. However it is confusion to see television consumption and physical activity side by side. Therefore, in the next version, I am going to take the ratio of tv consumption versus physical activity and then plot that against obesity. This way, we’ll be able to see if physical activity and tv consumption together play an equal role in obesity.
+
+
+---------
+
+## Final Version:
+
+
 ### What external factors affect obesity in children in the United States?<br>
 <img width="515" alt="screen shot 2017-11-30 at 12 21 40 am" src="https://user-images.githubusercontent.com/32026039/33420928-528fcf66-d565-11e7-91ce-0b2d77ff8361.png">
 
@@ -15,47 +50,24 @@ $$Add Text
 <img width="485" alt="screen shot 2017-11-30 at 12 21 29 am" src="https://user-images.githubusercontent.com/32026039/33420909-44adbd72-d565-11e7-884c-4618435da1fc.png"><br>
 
 
-
-
-
-## Prototypes
-
-
-![image](https://user-images.githubusercontent.com/32119820/33415685-f7c4298c-d54c-11e7-9b0f-7021d6bbcb85.png)
-
-$$Add Text
-
-![image](https://user-images.githubusercontent.com/32119820/33415670-d3dc6d54-d54c-11e7-823d-e4f0136b534a.png)
-
-In this graph, we can see that youth who watch more television and participate in less physical activity are more obese. This chart is good because it shows three dimensions and adds more complexity. However it is confusion to see television consumption and physical activity side by side. Therefore, in the next version, I am going to take the ratio of tv consumption versus physical activity and then plot that against obesity. This way, we’ll be able to see if physical activity and tv consumption together play an equal role in obesity.
-
-
----------
-
-## Final Versions:
-
-
-### How Sugar Intake Affect Obesity (Yuhao)
+### How Sugar Intake Affects Obesity (Yuhao)
 ** Suggestion: remove the legend from the screenshot. They're all the same color so the audience won't be able to tell the difference**
 
 ![image](img/sugar_intake.png)
 
-### How Availability of Food Affects Obesity (Melvin) 
+### How Availability of Food Affects Obesity (Melvin)
+** Suggestion: edit the axises to start at a higher number so that you can see a better view of the chart. 
 
 ![image](img/ChildObesity_VS_FreeLunch.png)
 
 Some elementary schools in various states offer a free lunch program for kids living in poverty. Here we see that a higher percentage of kids in said program correlates with a higher percentage of kids in the state who are obese. The more readily abundant food is to a person, the higher the chance he grows obese. A lunch program may be helpful in teaching children nutrition education in ways that a parent cannot, but there are other lifestyle factors other than food intake habits that contribute to obesity.
 
-### Physical activity and it's relationship to obesity (Elena)
-
-#### <i>The number of parks available may be a contributing factor to obesity.</i>
+### How Physical Activity Affects Obesity (Elena)
 
 ![image](https://user-images.githubusercontent.com/32119820/33409738-c4a5c152-d531-11e7-8066-16eb2825366e.png)
 
 The southern states surrounding Mississippi and Louisianna have some of the lowest numbers of city parks available within their neighborhoods. As a result, physical activity is seen as a lower priority, which leads to higher rates of obesity. Although there is a downward trend that indicates more parks can lead to more physical activity, the correlation isn't that strong so we aren't able to say that parks are the direct cause of physical inactivity. This confirms our claim that obesity is a complex issue that can't be resolved with one solution. However, this is a potential factor that states should keep in mind when creating initiatives to combat obesity. 
 
-
-#### <i>If you spend all of your free time watching television and not being physically active, you are more likely to be obese.</i>
 
 ![image](https://user-images.githubusercontent.com/32119820/33409713-b04a0678-d531-11e7-9219-e39700b0eb53.png)
  
@@ -68,13 +80,13 @@ For example, Michigan's Department of Community Health passed a legislation in w
 
 ---------------------------------------------------
 Meiyuan's - not done
-### How education level relate to obesity
+### How education level relates to obesity
 ![image](img/Meiyuan_1.png)
 
-### How poverty relate to adult obesity
+### How poverty relates to adult obesity
 ![image](img/Meiyuan_2.png)
 
-### How poverty relate to youth obesity
+### How poverty relates to youth obesity
 ![image](img/Meiyuan_3.png)
 
 ----------
