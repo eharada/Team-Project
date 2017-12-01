@@ -5,6 +5,11 @@ Obesity in the United States has been a growing issue for the past few decades. 
 
 Collectively we weren't sure why obesity remains a growing issue and what steps should be taken to lower obesity. Because of this curiosity, we decided to see what factors were strongly correlated to obesity. After researching more into obesity and potential factors, we learned that it is a much more complex issue than we first thought. Although we knew that there wasn't a one-to-one relationship, we didn't know that there could be at least ten different factors that play a role in obesity. This puts some perspective into our minds as we can better understand why past initiatives and government intervention weren't as successful as they should have been. 
 
+The following website has very helpful information on obesity in the United States. This was a great starting point for our team to start with the project and will be useful for anyone else who may want more information on this growing issue.
+
+https://stateofobesity.org/
+
+
 --------
 
 ## Project Progression
@@ -15,10 +20,10 @@ All data wrangling steps will be outlined in each individual jupyter notebook th
 <b> Literature/Data Sources: </b> <br>
 Below are the links used in this project. These links should also be available in the data visualizations and/or jupyter notebooks.
 
-https://stateofobesity.org/rates/
-https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-youth-risk-behavior-surveillance-system
-https://stateofobesity.org/physical-inactivity/
-https://www.cdc.gov/physicalactivity/downloads/pa_state_indicator_report_2014.pdf
+https://stateofobesity.org/rates/ <br>
+https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-youth-risk-behavior-surveillance-system <br>
+https://stateofobesity.org/physical-inactivity/ <br>
+https://www.cdc.gov/physicalactivity/downloads/pa_state_indicator_report_2014.pdf <br>
 
 
 ---------
