@@ -36,9 +36,13 @@ In this graph, we can see that youth who watch more television and participate i
 
 
 ### How Sugar Intake Affect Obesity (Yuhao)
+** Suggestion: remove the legend from the screenshot. They're all the same color so the audience won't be able to tell the difference**
+
 ![image](img/sugar_intake.png)
 
 ### How Availability of Food Affects Obesity (Melvin)
+** Suggestion: edit the axises to start at a higher number so that you can see a better view of the chart. 
+
 ![image](img/ChildObesity_VS_FreeLunch.png)
 
 Some elementary schools in various states offer a free lunch program for kids living in poverty. Here we see that a higher percentage of kids in said program correlates with a higher percentage of kids in the state who are obese. The more readily abundant food is to a person, the higher the chance he grows obese. A lunch program may be helpful in teaching children nutrition education in ways that a parent cannot, but there are other lifestyle factors other than food intake habits that contribute to obesity.
@@ -65,7 +69,7 @@ For example, Michigan's Department of Community Health passed a legislation in w
 
 ---------------------------------------------------
 Meiyuan's - not done
-### How edcuation level relate to obesity
+### How education level relate to obesity
 ![image](img/Meiyuan_1.png)
 
 ### How poverty relate to adult obesity
