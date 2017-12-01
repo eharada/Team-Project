@@ -1,4 +1,4 @@
-# How can we decrease obesity in the United States?
+# How can we decrease obesity in the United States? Is it even possible?
 
 ## Project Statement
 Obesity in the United States has been a growing issue for the past few decades. Many people have preconceived notions that obesity is a direct correlation to a person's lifestyle and his/her choices. Because of this, the government and other organizations have tried to intervene by creating fitness programs, adding more funding the physical education programs and community parks, and educating people on the negative impacts it will have in the future. Although these may be useful to help alleviate some of the issues, this is not a definitive solution. Even with all of these initivaties, obesity in the United States continues to grow. 
