@@ -36,7 +36,7 @@ In this graph, we can see that youth who watch more television and participate i
 
 
 ### How Sugar Intake Affect Obesity (Yuhao)
-![image](img/sugar_intake.png)
+
 
 ### How Availability of Food Affects Obesity (Melvin)
 ![image](img/ChildObesity_VS_FreeLunch.png)
